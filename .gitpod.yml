@@ -15,8 +15,6 @@ vscode:
 
     - esbenp.prettier-vscode
 
-    - CoenraadS.bracket-pair-colorizer-2
-
     - formulahendry.auto-rename-tag
 
     - formulahendry.auto-close-tag
@@ -30,8 +28,6 @@ vscode:
     - oderwat.indent-rainbow
 
     - christian-kohler.path-intellisense
-
-    - redhat.vscode-yaml
 
 github:
   prebuilds:
